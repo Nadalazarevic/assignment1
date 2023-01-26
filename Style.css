@@ -1,0 +1,25 @@
+#table1, td {
+    border: 1px solid black;
+    background-color: rgb(209, 255, 240);
+}
+
+th {
+    border: 2px solid black;
+    background-color: aqua;
+}
+
+#name {
+    background-color: rgb(1, 255, 200);
+}
+
+#origin {
+    background-color: rgb(77, 199, 172);
+}
+
+#hobbies {
+    background-color: rgb(124, 196, 180);
+}
+
+#list1 {
+    background-color: rgb(206, 252, 236);
+}
